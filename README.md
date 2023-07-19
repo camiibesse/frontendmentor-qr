@@ -30,7 +30,7 @@ View the optimal layout for the site depending on their device's screen size
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://frontend.mentor.cb/) 
+- Solution URL: [Add solution URL here](https://camiibesse.github.io/frontendmentor-qr/) 
 
 ## My process
 
@@ -45,7 +45,6 @@ I would like to start improving and putting my skills into practice
 
 ## Author
 
-- Website - [Camila Besse](http://frontend.mentor.cb/)
 - Frontend Mentor - [@camiibesse _](https://www.frontendmentor.io/profile/camiibesse)
 
 ## Continued development
