@@ -45,7 +45,7 @@ I would like to start improving and putting my skills into practice
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
+- Website - [Camila Besse](http://frontend.mentor.cb/)
 - Frontend Mentor - [@camiibesse _](https://www.frontendmentor.io/profile/camiibesse)
 
 ## Continued development
