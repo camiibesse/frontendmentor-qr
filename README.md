@@ -30,11 +30,11 @@ View the optimal layout for the site depending on their device's screen size
 
 ### Links
 
-- Solution URL: [Add solution URL here](http://frontend.mentor.cb/)
+- Solution URL: [Add solution URL here](http://frontend.mentor.cb/) 
 
 ## My process
 
-Hello this is my first challenge here in frontendmentor. 
+Hello this is my first challenge here in Frontend Mentor. 
 I would like to start improving and putting my skills into practice
 
 ### Built with
