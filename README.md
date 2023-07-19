@@ -30,7 +30,7 @@ View the optimal layout for the site depending on their device's screen size
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](http://frontend.mentor.cb/)
 
 ## My process
 
